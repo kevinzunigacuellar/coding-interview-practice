@@ -1,5 +1,7 @@
-# Selection sort algorithm:
-# Description: Selection sort sorts an array by repeatedly finding the minimum element.
+"""
+Selection sort algorithm:
+Description: Selection sort sorts an array by repeatedly finding the minimum element.
+"""
 
 class SelectionSort:
     def selection_sort(self, arr: List[int]) -> List[int]:
